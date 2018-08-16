@@ -1372,43 +1372,6 @@ body {
 .dropup .dropdown-toggle::after {
   display: none;
 }
-.cid-r0UBQCjRz4 {
-  background-image: url("../../../assets/images/neonbrand-570373-unsplash-2000x1333.jpg");
-}
-.cid-r0UBQCjRz4 .icons-media-container {
-  display: flex;
-  justify-content: center;
-  -webkit-justify-content: center;
-  flex-direction: row;
-  -webkit-flex-direction: row;
-  flex-wrap: wrap;
-  -webkit-flex-wrap: wrap;
-  padding-top: 4rem;
-}
-.cid-r0UBQCjRz4 .icons-media-container .mbr-iconfont {
-  font-size: 96px;
-  color: #ffffff;
-}
-.cid-r0UBQCjRz4 .icons-media-container .icon-block {
-  padding-bottom: 1rem;
-}
-.cid-r0UBQCjRz4 .mbr-text {
-  color: #ffffff;
-}
-.cid-r0UBQCjRz4 .card {
-  padding-bottom: 1.5rem;
-}
-.cid-r0UBQCjRz4 H5 {
-  color: #efefef;
-}
-.cid-r0UBQCjRz4 H1 {
-  color: #ffffff;
-}
-.cid-r0UBQCjRz4 .mbr-text,
-.cid-r0UBQCjRz4 .mbr-section-btn {
-  color: #cccccc;
-  text-align: center;
-}
 .cid-r0UBVtusRg .navbar {
   padding: .5rem 0;
   background: #151414;
@@ -1789,6 +1752,107 @@ body {
 .cid-r0UBVtusRg .nav-link:hover,
 .cid-r0UBVtusRg .dropdown-item:hover {
   color: #c1c1c1 !important;
+}
+.cid-r0ULUTkZVZ {
+  background-image: url("../../../assets/images/neonbrand-570373-unsplash-2000x1333.jpg");
+}
+.cid-r0ULUTkZVZ .mbr-text,
+.cid-r0ULUTkZVZ .mbr-section-btn {
+  color: #cccccc;
+}
+.cid-r0UOcWRKK5 {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-r0UOcWRKK5 .mbr-text {
+  color: #767676;
+}
+.cid-r0UOcWRKK5 h4 {
+  text-align: center;
+}
+.cid-r0UOcWRKK5 p {
+  text-align: center;
+}
+.cid-r0UOcWRKK5 .card-img span {
+  font-size: 96px;
+  color: #149dcc;
+}
+.cid-r0UKZFeNOq {
+  padding-top: 45px;
+  padding-bottom: 60px;
+  background-color: #000000;
+}
+@media (max-width: 767px) {
+  .cid-r0UKZFeNOq .content {
+    text-align: center;
+  }
+  .cid-r0UKZFeNOq .content > div:not(:last-child) {
+    margin-bottom: 2rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-r0UKZFeNOq .media-wrap {
+    margin-bottom: 1rem;
+  }
+}
+.cid-r0UKZFeNOq .media-wrap .mbr-iconfont-logo {
+  font-size: 7.5rem;
+  color: #f36;
+}
+.cid-r0UKZFeNOq .media-wrap img {
+  height: 6rem;
+}
+@media (max-width: 767px) {
+  .cid-r0UKZFeNOq .footer-lower .copyright {
+    margin-bottom: 1rem;
+    text-align: center;
+  }
+}
+.cid-r0UKZFeNOq .footer-lower hr {
+  margin: 1rem 0;
+  border-color: #fff;
+  opacity: .05;
+}
+.cid-r0UKZFeNOq .footer-lower .social-list {
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  -webkit-justify-content: flex-end;
+}
+.cid-r0UKZFeNOq .footer-lower .social-list .mbr-iconfont-social {
+  font-size: 1.3rem;
+  color: #fff;
+}
+.cid-r0UKZFeNOq .footer-lower .social-list .soc-item {
+  margin: 0 .5rem;
+}
+.cid-r0UKZFeNOq .footer-lower .social-list a {
+  margin: 0;
+  opacity: .5;
+  -webkit-transition: .2s linear;
+  transition: .2s linear;
+}
+.cid-r0UKZFeNOq .footer-lower .social-list a:hover {
+  opacity: 1;
+}
+@media (max-width: 767px) {
+  .cid-r0UKZFeNOq .footer-lower .social-list {
+    justify-content: center;
+    -webkit-justify-content: center;
+  }
+}
+.cid-r0UKZFeNOq P {
+  color: #c1c1c1;
+}
+.cid-r0UKZFeNOq H5 {
+  color: #de791a;
+}
+.cid-r0UKZFeNOq .copyright > p {
+  color: #c1c1c1;
 }
 .cid-r0PboFNvZJ .navbar {
   padding: .5rem 0;
@@ -3881,13 +3945,13 @@ body {
 .cid-r0PiRpNGAX {
   padding-top: 120px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/background2.jpg");
+  background-image: url("../../../assets/images/mbr-1920x1386.jpg");
 }
 .cid-r0PiRpNGAX .title {
   margin-bottom: 2rem;
 }
 .cid-r0PiRpNGAX .mbr-section-subtitle {
-  color: #4f4943;
+  color: #cccccc;
 }
 .cid-r0PiRpNGAX a:not([href]):not([tabindex]) {
   color: #fff;
@@ -3910,6 +3974,9 @@ body {
 }
 .cid-r0PiRpNGAX .mbr-section-subtitle B {
   color: #c1c1c1;
+}
+.cid-r0PiRpNGAX LABEL {
+  color: #cccccc;
 }
 .cid-r0PbUJCWRX .navbar {
   padding: .5rem 0;
@@ -4681,7 +4748,7 @@ body {
 .cid-r0OItWyiGI {
   padding-top: 120px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/background23.jpg");
+  background-image: url("../../../assets/images/background2.jpg");
 }
 .cid-r0OItWyiGI .title {
   margin-bottom: 2rem;
@@ -5092,7 +5159,7 @@ body {
 .cid-r0IlmLuQbS {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/fuyong-hua-776083-unsplash-2000x1333.jpg");
+  background-image: url("../../../assets/images/mbr-1920x1271.jpg");
 }
 .cid-r0IlmLuQbS P {
   color: #c1c1c1;
