@@ -46,7 +46,7 @@
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-117421072-3\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-117421072-3');\r\n</script>\r\n",
     "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
     "versionFirst": "4.6.6",
-    "uniqCompNum": 85,
+    "uniqCompNum": 86,
     "versionPublish": "4.8.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -535,6 +535,22 @@
           "_global": false,
           "_once": false,
           "_params": {}
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "{JS_CODE_0}\n<gcse:search></gcse:search>",
+          "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_anchor": "custom-html-2d",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [
+            "<script>\n  (function() {\n    var cx = '016034572765190214675:tkoctqg_6xa';\n    var gcse = document.createElement('script');\n    gcse.type = 'text/javascript';\n    gcse.async = true;\n    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;\n    var s = document.getElementsByTagName('script')[0];\n    s.parentNode.insertBefore(gcse, s);\n  })();\n</script>"
+          ]
         },
         {
           "_styles": {

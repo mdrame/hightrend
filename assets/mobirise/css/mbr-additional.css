@@ -1778,6 +1778,12 @@ body {
   font-size: 96px;
   color: #149dcc;
 }
+#custom-html-2d {
+  /* Type valid CSS here */
+}
+#custom-html-2d .my-image {
+  width: 100%;
+}
 .cid-r0UKZFeNOq {
   padding-top: 45px;
   padding-bottom: 60px;
