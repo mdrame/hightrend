@@ -1323,7 +1323,11 @@
             "Extension"
           ],
           "_name": "pro.custom-html",
-          "_anchor": "custom-html-2e"
+          "_anchor": "custom-html-2e",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [
+            "<script>\n  (function() {\n    var cx = '016034572765190214675:tkoctqg_6xa';\n    var gcse = document.createElement('script');\n    gcse.type = 'text/javascript';\n    gcse.async = true;\n    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;\n    var s = document.getElementsByTagName('script')[0];\n    s.parentNode.insertBefore(gcse, s);\n  })();\n</script>"
+          ]
         },
         {
           "_styles": {
@@ -2096,7 +2100,11 @@
             "Extension"
           ],
           "_name": "pro.custom-html",
-          "_anchor": "custom-html-2f"
+          "_anchor": "custom-html-2f",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [
+            "<script>\n  (function() {\n    var cx = '016034572765190214675:tkoctqg_6xa';\n    var gcse = document.createElement('script');\n    gcse.type = 'text/javascript';\n    gcse.async = true;\n    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;\n    var s = document.getElementsByTagName('script')[0];\n    s.parentNode.insertBefore(gcse, s);\n  })();\n</script>"
+          ]
         },
         {
           "_styles": {
@@ -2869,7 +2877,11 @@
             "Extension"
           ],
           "_name": "pro.custom-html",
-          "_anchor": "custom-html-2g"
+          "_anchor": "custom-html-2g",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [
+            "<script>\n  (function() {\n    var cx = '016034572765190214675:tkoctqg_6xa';\n    var gcse = document.createElement('script');\n    gcse.type = 'text/javascript';\n    gcse.async = true;\n    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;\n    var s = document.getElementsByTagName('script')[0];\n    s.parentNode.insertBefore(gcse, s);\n  })();\n</script>"
+          ]
         },
         {
           "_styles": {
@@ -4001,7 +4013,11 @@
             "Extension"
           ],
           "_name": "pro.custom-html",
-          "_anchor": "custom-html-2i"
+          "_anchor": "custom-html-2i",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [
+            "<script>\n  (function() {\n    var cx = '016034572765190214675:tkoctqg_6xa';\n    var gcse = document.createElement('script');\n    gcse.type = 'text/javascript';\n    gcse.async = true;\n    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;\n    var s = document.getElementsByTagName('script')[0];\n    s.parentNode.insertBefore(gcse, s);\n  })();\n</script>"
+          ]
         },
         {
           "_styles": {
@@ -5236,7 +5252,11 @@
             "Extension"
           ],
           "_name": "pro.custom-html",
-          "_anchor": "custom-html-2h"
+          "_anchor": "custom-html-2h",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [
+            "<script>\n  (function() {\n    var cx = '016034572765190214675:tkoctqg_6xa';\n    var gcse = document.createElement('script');\n    gcse.type = 'text/javascript';\n    gcse.async = true;\n    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;\n    var s = document.getElementsByTagName('script')[0];\n    s.parentNode.insertBefore(gcse, s);\n  })();\n</script>"
+          ]
         },
         {
           "_styles": {
@@ -5814,7 +5834,11 @@
             "Extension"
           ],
           "_name": "pro.custom-html",
-          "_anchor": "custom-html-2n"
+          "_anchor": "custom-html-2n",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [
+            "<script>\n  (function() {\n    var cx = '016034572765190214675:tkoctqg_6xa';\n    var gcse = document.createElement('script');\n    gcse.type = 'text/javascript';\n    gcse.async = true;\n    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;\n    var s = document.getElementsByTagName('script')[0];\n    s.parentNode.insertBefore(gcse, s);\n  })();\n</script>"
+          ]
         },
         {
           "_styles": {
