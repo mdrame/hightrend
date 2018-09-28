@@ -5542,6 +5542,29 @@ body {
 .cid-r4TzA0pRFw H2 {
   color: #232323;
 }
+.cid-r4TPSCX1Tf {
+  padding-top: 0px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-r4TPSCX1Tf [class^="socicon-"]:before,
+.cid-r4TPSCX1Tf [class*=" socicon-"]:before {
+  line-height: 44px;
+}
+.cid-r4TPSCX1Tf .btn-social {
+  border-color: #de791a;
+}
+.cid-r4TPSCX1Tf .btn-social:hover {
+  background: #de791a;
+}
+.cid-r4TPSCX1Tf .btn-social:hover i.socicon {
+  color: #ffffff !important;
+}
+@media (max-width: 767px) {
+  .cid-r4TPSCX1Tf .btn {
+    font-size: 20px !important;
+  }
+}
 .cid-r4TEL9THrj {
   padding-top: 45px;
   padding-bottom: 60px;
