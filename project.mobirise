@@ -62,7 +62,7 @@
         "url": "https://fonts.googleapis.com/css?family=Cabin:400,400i,500,500i,600,600i,700,700i"
       }
     ],
-    "gdpr": "By continiung you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>.",
+    "gdpr": "",
     "sitemapSwitcher": "on"
   },
   "pages": {
@@ -71,7 +71,7 @@
         "main": true,
         "title": "Access Promo Codes and Hot Deals",
         "meta_descr": "We give you access to 1000+ of coupon codes and exclusive deals to help you save hundreds of dollars on your favorite products. We also connect you with the trendiest, hottest and best-selling products on the web. We have made shopping easier than ever!",
-        "header_custom": "",
+        "header_custom": "<meta name=\"google-site-verification\" content=\"BBzjcqnUA1_5u3LjYKwHdReOKVizPlsnAc0B9MNtwnU\" />",
         "footer_custom": "",
         "html_before": ""
       },
